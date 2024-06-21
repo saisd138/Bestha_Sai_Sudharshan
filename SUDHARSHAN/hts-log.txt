@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 21 Jun 2024 17:24:36 at https://sudharshanportfolio.wixsite.com/portfolio +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sudharshanportfolio.wixsite.com/portfolio -O1 "C:\My Web Sites\SUDHARSHAN" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:24:50	Error: 	"Not Found" (404) at link https://sudharshanportfolio.wixsite.com/location.href (from https://sudharshanportfolio.wixsite.com/portfolio)
+17:24:50	Error: 	"Not Found" (404) at link https://sudharshanportfolio.wixsite.com/ (from https://sudharshanportfolio.wixsite.com/portfolio)
+17:25:03	Error: 	"Not Found" (404) at link https://sudharshanportfolio.wixsite.com/sitemap.xml (from https://sudharshanportfolio.wixsite.com/portfolio)
+17:25:03	Error: 	"Not Found" (404) at link https://sudharshanportfolio.wixsite.com/feed.xml (from https://sudharshanportfolio.wixsite.com/portfolio)
+17:25:03	Error: 	"Not Found" (404) at link https://sudharshanportfolio.wixsite.com/${n.uri} (from https://sudharshanportfolio.wixsite.com/portfolio)
+17:25:03	Error: 	"Not Found" (404) at link https://sudharshanportfolio.wixsite.com/decodeURIComponent(e (from https://sudharshanportfolio.wixsite.com/portfolio)
+17:25:03	Error: 	"Not Found" (404) at link https://sudharshanportfolio.wixsite.com/portfolio/location.href (from https://sudharshanportfolio.wixsite.com/portfolio/portfolio)
+17:25:04	Error: 	"Not Found" (404) at link https://sudharshanportfolio.wixsite.com/portfolio/robots.txt (from https://sudharshanportfolio.wixsite.com/portfolio/portfolio)
+17:25:04	Error: 	"Not Found" (404) at link https://sudharshanportfolio.wixsite.com/portfolio/feed.xml (from https://sudharshanportfolio.wixsite.com/portfolio/portfolio)
+17:25:04	Error: 	"Not Found" (404) at link https://sudharshanportfolio.wixsite.com/portfolio/${n.uri} (from https://sudharshanportfolio.wixsite.com/portfolio/portfolio)
+17:25:04	Error: 	"Not Found" (404) at link https://sudharshanportfolio.wixsite.com/portfolio/decodeURIComponent(e (from https://sudharshanportfolio.wixsite.com/portfolio/portfolio)
+17:25:14	Error: 	"Not Found" (404) at link https://sudharshanportfolio.wixsite.com/portfolio/media/emptystate.85a4add5.svg (from https://sudharshanportfolio.wixsite.com/portfolio/personal-projects)
+
+HTTrack Website Copier/3.49-2 mirror complete in 38 seconds : 68 links scanned, 55 files written (7699055 bytes overall) [2618017 bytes received at 68895 bytes/sec], 6886840 bytes transferred using HTTP compression in 34 files, ratio 24%, 1.7 requests per connection
+(12 errors, 0 warnings, 0 messages)
